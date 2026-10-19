@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-452-feat-devx-add-an-environment-doctor-script",
+    "fix/issue-420-refactor-api-split-lib-contract-ts-into-read",
+    "fix/issue-427-refactor-ui-split-exploreclient-into-filter",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-452-feat-devx-add-an-environment-doctor-script": "main",
+    "fix/issue-420-refactor-api-split-lib-contract-ts-into-read": "main",
+    "fix/issue-427-refactor-ui-split-exploreclient-into-filter": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-452-feat-devx-add-an-environment-doctor-script",
+    "fix/issue-420-refactor-api-split-lib-contract-ts-into-read",
+    "fix/issue-427-refactor-ui-split-exploreclient-into-filter",
+    "origin"
+  ]
+}
